@@ -1,7 +1,5 @@
 <p align="center">
-
-<img src="https://img.shields.io/badge/Dhruthi%20Kashyap-Web%20Developer-F5F5DC?style=for-the-badge&logo=github&logoColor=8B5E3C&labelColor=D2B48C">
-
+<img src="https://img.shields.io/badge/Dhruthi%20Kashyap-Web%20Developer-F5F5DC?style=for-the-badge & logo=github&logoColor=8B5E3C&labelColor=D2B48C">
 </p>
 
 <h3 align="center">
@@ -35,21 +33,19 @@ Building modern web applications using React & Next.js
 
 ## What I Do
 
-✔ Build Responsive Websites  
-✔ Develop React Applications  
-✔ Create UI with Tailwind  
-✔ Work with APIs  
-✔ Build Full Stack Projects
+ Build Responsive Websites  
+ Develop React Applications  
+ Create UI with Tailwind  
+ Work with APIs  
+ Build Full Stack Projects
 
 
 
-## 📈 Currently Learning
+##  Currently Learning
 
 - Backend Development
 - Advanced React
 - System Design
 
 
----
 
-⭐ Always learning new technologies and improving my coding skills.
