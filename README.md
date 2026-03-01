@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://img.shields.io/badge/Dhruthi%20Kashyap-Web%20Developer-F5F5DC?style=for-the-badge & logo=github&logoColor=8B5E3C&labelColor=D2B48C">
+<img src="https://img.shields.io/badge/Dhruthi%20Kashyap-Web%20Developer-F5F5DC?style=for-the-badge&logo=github&logoColor=8B5E3C&labelColor=D2B48C">
 </p>
 
 <h3 align="center">
