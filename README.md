@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&pause=800&color=8B5E3C&center=true&vCenter=true&width=600&lines=Hi+I'm+Dhruthi+Kashyap;Web+Developer;MERN+Stack+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&pause=800&color=8B5E3C&center=true&vCenter=true&width=600&lines=Hi+I'm+Dhruthi+M+Kashyap" />
 
 </p>
 
@@ -9,8 +9,7 @@
 </p>
 
 
-<p align="center">
-🚀 Currently learning MERN Stack <br>
+<p align="center"> Currently learning and <br>
 Building modern web applications using React & Next.js
 </p>
 
