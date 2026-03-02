@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=DHRUTHI+KASHYAP" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=DHRUTHI+M+KASHYAP" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Backend-111111?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
   <img src="https://img.shields.io/badge/Full+Stack-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
-
 
 <p align="center"> Currently learning and <br>
 Building modern web applications using React & Next.js
@@ -19,7 +18,7 @@ Building modern web applications using React & Next.js
 </a>
 </p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=80&section=divider"/>
 
 ## About Me
 
@@ -28,6 +27,15 @@ Building modern web applications using React & Next.js
 - Love building apps using React & Next.js  
 - Enjoy creating clean UI designs  
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=80&section=divider"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&title_color=8B5E3C&icon_color=D2B48C&text_color=6B4F3A&border_color=D2B48C" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent&title_color=8B5E3C&text_color=6B4F3A&border_color=D2B48C" height="165"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=80&section=divider"/>
 
 ## Skills
 
@@ -41,6 +49,7 @@ Building modern web applications using React & Next.js
 | **Tools & IDE** | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge) |
 | **Hosting** | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white) |
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=80&section=divider"/>
 
 ## What I Do
 
@@ -50,6 +59,7 @@ Building modern web applications using React & Next.js
  Work with APIs  
  Build Full Stack Projects  
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=80&section=divider"/>
 
 ## Currently Learning
   
