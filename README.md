@@ -1,11 +1,13 @@
+<h1 align="center">𝓓𝓱𝓻𝓾𝓽𝓱𝓲 𝓚𝓪𝓼𝓱𝔂𝓪𝓹</h1>
+
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&pause=800&color=8B5E3C&center=true&vCenter=true&width=600&lines=Hi+I'm+Dhruthi+M+Kashyap" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=3000&pause=1000&color=8B5E3C&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate;Web+Developer;Currently+Learning+MERN" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Computer%20Science%20Graduate-F5F5DC?style=for-the-badge&logo=github&logoColor=8B5E3C&labelColor=D2B48C">
+  <img src="https://img.shields.io/badge/React-F5F5DC?style=for-the-badge&logo=react&logoColor=8B5E3C&labelColor=D2B48C"/>
+  <img src="https://img.shields.io/badge/Next.js-F5F5DC?style=for-the-badge&logo=next.js&logoColor=8B5E3C&labelColor=D2B48C"/>
+  <img src="https://img.shields.io/badge/MERN-D2B48C?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 
