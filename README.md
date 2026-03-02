@@ -1,13 +1,11 @@
-<h1 align="center">𝓓𝓱𝓻𝓾𝓽𝓱𝓲 𝓚𝓪𝓼𝓱𝔂𝓪𝓹</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=DHRUTHI+KASHYAP" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=3000&pause=1000&color=8B5E3C&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate;Web+Developer;Currently+Learning+MERN" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-F5F5DC?style=for-the-badge&logo=react&logoColor=8B5E3C&labelColor=D2B48C"/>
-  <img src="https://img.shields.io/badge/Next.js-F5F5DC?style=for-the-badge&logo=next.js&logoColor=8B5E3C&labelColor=D2B48C"/>
-  <img src="https://img.shields.io/badge/MERN-D2B48C?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Backend-111111?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
+  <img src="https://img.shields.io/badge/Full+Stack-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
 
