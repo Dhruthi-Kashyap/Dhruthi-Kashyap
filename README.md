@@ -1,10 +1,13 @@
 <p align="center">
-<img src="https://img.shields.io/badge/Dhruthi%20Kashyap-Web%20Developer-F5F5DC?style=for-the-badge&logo=github&logoColor=8B5E3C&labelColor=D2B48C">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&pause=800&color=8B5E3C&center=true&vCenter=true&width=600&lines=Hi+I'm+Dhruthi+Kashyap;Web+Developer;MERN+Stack+Learner" />
+
 </p>
 
-<h3 align="center">
-💻 Computer Science Graduate | 🌐 Web Development
-</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Computer%20Science%20Graduate-F5F5DC?style=for-the-badge&logo=github&logoColor=8B5E3C&labelColor=D2B48C">
+</p>
+
 
 <p align="center">
 🚀 Currently learning MERN Stack <br>
