@@ -3,11 +3,21 @@
 </p>
 
 <h3 align="center">
-💻 Computer Science Graduate | 🌐 Web Development 
+💻 Computer Science Graduate | 🌐 Web Development
+</h3>
 
 <p align="center">
+🚀 Currently learning MERN Stack <br>
 Building modern web applications using React & Next.js
 </p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/dhruthi-m-kashyap/">
+<img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-D2B48C?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+
+
 
 ## About Me
 
@@ -30,22 +40,17 @@ Building modern web applications using React & Next.js
 | **Hosting** | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white) |
 
 
-
 ## What I Do
 
  Build Responsive Websites  
  Develop React Applications  
  Create UI with Tailwind  
  Work with APIs  
- Build Full Stack Projects
+ Build Full Stack Projects  
 
 
-
-##  Currently Learning
-
-- Backend Development
-- Advanced React
-- System Design
-
-
-
+## Currently Learning
+  
+- Backend Development  
+- Advanced React  
+- System Design  
