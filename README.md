@@ -13,8 +13,6 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=80&section=divider"/>
-
 ---
 
 ## 🤎 About Me
@@ -23,23 +21,24 @@
 -  Passionate about Web Development  
 -  Love building apps using React & Next.js  
 -  Enjoy creating clean, aesthetic UI designs  
--  Currently learning the MERN Stack  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=60&section=divider"/>
+##  Skills
 
-##  Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,python,docker,vscode" />
-</p>
+| Category | Skills |
+|----------|--------|
+| **Languages** | HTML5, CSS3, JavaScript, Python |
+| **Frontend** | React.js, Next.js |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB, MySQL |
+| **Styling** | Tailwind CSS, Bootstrap, React Bootstrap |
+| **Tools & IDE** | VS Code, Docker |
+| **Hosting** | Netlify, Vercel |
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=60&section=divider"/>
-
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |---------|------------|
@@ -51,21 +50,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=60&section=divider"/>
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruthi-Kashyap&show_icons=true&theme=transparent&title_color=8B5E3C&icon_color=D2B48C&text_color=6B4F3A&border_color=D2B48C" height="165"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruthi-Kashyap&layout=compact&theme=transparent&title_color=8B5E3C&text_color=6B4F3A&border_color=D2B48C" height="165"/>
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=60&section=divider"/>
-
-## 🌸 What I Do
+##  What I Do
 
 ✔ Build Responsive Websites  
 ✔ Develop Modern React Applications  
@@ -75,4 +60,4 @@
 
 ---
 
->  “Designing clean interfaces with logic behind them.”
+> ✨ “Designing clean interfaces with logic behind them.”
