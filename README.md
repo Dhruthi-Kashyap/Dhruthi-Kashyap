@@ -18,7 +18,7 @@ Building modern web applications using React & Next.js
 </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=80&section=divider"/>
+
 
 ## About Me
 
@@ -26,16 +26,6 @@ Building modern web applications using React & Next.js
 - Passionate about Web Development  
 - Love building apps using React & Next.js  
 - Enjoy creating clean UI designs  
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=80&section=divider"/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&title_color=8B5E3C&icon_color=D2B48C&text_color=6B4F3A&border_color=D2B48C" height="165"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent&title_color=8B5E3C&text_color=6B4F3A&border_color=D2B48C" height="165"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=80&section=divider"/>
 
 ## Skills
 
@@ -47,9 +37,7 @@ Building modern web applications using React & Next.js
 | **Styling** | ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![ReactBootstrap](https://img.shields.io/badge/ReactBootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Tools & IDE** | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge) |
-| **Hosting** | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white) |
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=80&section=divider"/>
+| **Hosting** | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white) 
 
 ## What I Do
 
@@ -59,7 +47,6 @@ Building modern web applications using React & Next.js
  Work with APIs  
  Build Full Stack Projects  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=80&section=divider"/>
 
 ## Currently Learning
   
