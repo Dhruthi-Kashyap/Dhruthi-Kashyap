@@ -20,7 +20,7 @@
 -  Computer Science Graduate  
 -  Passionate about Web Development  
 -  Love building apps using React & Next.js  
--  Enjoy creating clean, aesthetic UI designs  
+-  Enjoy creating clean UI designs  
 
 ---
 
