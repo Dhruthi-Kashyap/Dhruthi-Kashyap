@@ -11,7 +11,7 @@
 
 
 <p align="center">
-Passionate Full Stack Developer focused on building scalable web applications, REST APIs, blockchain-based systems, and healthcare research solutions.
+Passionate Full Stack Developer focused on building scalable web applications, REST APIs and healthcare research solutions.
 </p>
 
 ---
