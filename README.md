@@ -5,11 +5,10 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhruthi M Kashyap</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4D6D&center=true&vCenter=true&width=800&lines=Python+%E2%80%A2+FastAPI+%E2%80%A2+React.js+%E2%80%A2+Node.js;MERN+Stack+Developer+%E2%80%A2+AI+Enthusiast;Blockchain+Learner+%E2%80%A2+Research+Explorer" alt="Typing SVG" />
+</p>
 
-<h3 align="center">
-MERN Stack Developer | AI Enthusiast 
-</h3>
 
 <p align="center">
 Passionate Full Stack Developer focused on building scalable web applications, REST APIs, blockchain-based systems, and healthcare research solutions.
