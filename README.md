@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00c6ff&height=250&section=header&text=Dhruthi%20M%20Kashyap&fontSize=45&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00ff99&height=250&section=header&text=Dhruthi%20M%20Kashyap&fontSize=45&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
 </p>
