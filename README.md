@@ -18,11 +18,10 @@ Passionate Full Stack Developer focused on building scalable web applications, R
 
 # 🚀 About Me
 
-- 💻 MERN Stack Developer with hands-on project experience
 - 🌐 Skilled in React.js, Node.js, Express.js, MongoDB, and JavaScript
 - 🌱 Currently learning advanced MERN Stack development and backend engineering
 - 💻 Building full-stack applications using React.js, Node.js, Express.js, and MongoDB
-- 🧠 Worked on Digital Twin Healthcare Research using Machine Learning concepts
+- 🧠 Worked on AI
 - 🏆 1st Place Winner – Intuit Innovation Challenge 2025
 - 📚 Published research on smart-contract-driven property transactions
 - 🎯 Passionate about problem solving, research, and building scalable applications
@@ -205,7 +204,9 @@ https://github.com/Dhruthi-Kashyap/digital-twin
 - 💻 GitHub: https://github.com/Dhruthi-Kashyap
 
 ---
+# 🌱 Beyond the Code
 
-<p align="center">
-⭐ Building scalable applications, exploring blockchain technology, and creating impactful solutions through code.
-</p>
+When I’m not building  projects, I’m usually exploring AI, healthcare innovation, or learning something new in tech.
+
+I enjoy experimenting with ideas and continuously improving my development skills through hands-on projects and research. Outside of coding, I like reading about self-growth and writing reflective content focused on learning and personal development on medium.
+
