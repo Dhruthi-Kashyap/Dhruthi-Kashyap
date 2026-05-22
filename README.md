@@ -1,12 +1,12 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Dhruthi%20M%20Kashyap&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Blockchain%20Learner&descAlignY=58&descAlign=50"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00c6ff&height=250&section=header&text=Dhruthi%20M%20Kashyap&fontSize=45&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4D6D&center=true&vCenter=true&width=800&lines=Python+%E2%80%A2+FastAPI+%E2%80%A2+React.js+%E2%80%A2+Node.js;MERN+Stack+Developer+%E2%80%A2+AI+Enthusiast;Blockchain+Learner+%E2%80%A2+Research+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4D6D&center=true&vCenter=true&width=800&lines=Python+%E2%80%A2+JavaScript+%E2%80%A2+React.js+%E2%80%A2+Node.js;MERN+Stack+Development+%E2%80%A2+AI+Enthusiast;+%E2%80%A2+Research+Explorer" alt="Typing SVG" />
 </p>
 
 
