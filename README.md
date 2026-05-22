@@ -19,11 +19,11 @@ Passionate Full Stack Developer focused on building scalable web applications, R
 # 🚀 About Me
 
 - 🌐 Skilled in React.js, Node.js, Express.js, MongoDB, and JavaScript
-- 🌱 Currently learning advanced MERN Stack development and backend engineering
+- 🌱 Currently learning backend engineering
 - 💻 Building full-stack applications using React.js, Node.js, Express.js, and MongoDB
-- 🧠 Worked on AI
+- 🧠 Working on expanding my knowledge in the field of AI
 - 🏆 1st Place Winner – Intuit Innovation Challenge 2025
-- 📚 Published research on smart-contract-driven property transactions
+- 📚 Published research on smart-contract-driven property transactions on Gradiva Review Journal
 - 🎯 Passionate about problem solving, research, and building scalable applications
 - <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhruthi-Kashyap&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
