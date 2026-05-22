@@ -1,7 +1,14 @@
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Dhruthi%20M%20Kashyap&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Blockchain%20Learner&descAlignY=58&descAlign=50"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm Dhruthi M Kashyap</h1>
 
 <h3 align="center">
-MERN Stack Developer | AI Enthusiast
+MERN Stack Developer | AI Enthusiast | Blockchain Learner
 </h3>
 
 <p align="center">
@@ -14,7 +21,8 @@ Passionate Full Stack Developer focused on building scalable web applications, R
 
 - 💻 MERN Stack Developer with hands-on project experience
 - 🌐 Skilled in React.js, Node.js, Express.js, MongoDB, and JavaScript
-- 🔗 Interested in Blockchain Development & Smart Contracts
+- 🌱 Currently learning advanced MERN Stack development and backend engineering
+- 💻 Building full-stack applications using React.js, Node.js, Express.js, and MongoDB
 - 🧠 Worked on Digital Twin Healthcare Research using Machine Learning concepts
 - 🏆 1st Place Winner – Intuit Innovation Challenge 2025
 - 📚 Published research on smart-contract-driven property transactions
@@ -26,6 +34,7 @@ Passionate Full Stack Developer focused on building scalable web applications, R
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
 
 ## Frontend
