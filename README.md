@@ -25,6 +25,9 @@ Passionate Full Stack Developer focused on building scalable web applications, R
 - 🏆 1st Place Winner – Intuit Innovation Challenge 2025
 - 📚 Published research on smart-contract-driven property transactions
 - 🎯 Passionate about problem solving, research, and building scalable applications
+- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhruthi-Kashyap&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
