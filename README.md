@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Dhruthi M Kashyap</h1>
 
 <h3 align="center">
-MERN Stack Developer | AI Enthusiast | Blockchain Learner
+MERN Stack Developer | AI Enthusiast 
 </h3>
 
 <p align="center">
