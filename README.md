@@ -10,12 +10,10 @@
 * 🏆 **1st Place  – Intuit Innovation Challenge 2025**
 * 📄 Published research in **UGC-CARE Gradiva Review Journal**
 * 🔬 Experience in **Healthcare AI & Digital Twin Research**
-* 🎯 Strong interest in problem-solving and software development
 
 ---
 
 ## 🛠️ Tech Stack
-# 🛠️ Tech Stack
 ## Languages ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
 ## Frontend ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css) ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap) 
 ## Backend & Databases ![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js) ![ExpressJS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql) 
