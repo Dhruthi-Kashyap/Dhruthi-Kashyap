@@ -1,17 +1,4 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00ff99&height=250&section=header&text=Dhruthi%20M%20Kashyap&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" /> </p>
-# 👋 Hi, I'm Dhruthi M Kashyap
-
-### Full Stack Developer | MERN Stack 
-
-## 🚀 About Me
-
-* 💻 Full Stack Developer specializing in **MERN Stack**
-* 🌱 Currently exploring **Backend Engineering & AI**
-* 🏆 **1st Place  – Intuit Innovation Challenge 2025**
-* 📄 Published research in **UGC-CARE Gradiva Review Journal**
-* 🔬 Experience in **Healthcare AI & Digital Twin Research**
-
----
 
 ## 🛠️ Tech Stack
 ## Languages ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
@@ -34,32 +21,6 @@
 * Worked on healthcare datasets and ML concepts
 * Explored predictive analytics and AI-assisted diagnostics
 
----
-
-## 📌 Featured Projects
-
-### 📚 Book Management REST API
-Node.js • Express.js • REST API • Postman
-
-### 📰 News24-7
-React.js • News API • Responsive UI
-
-### 🏠 Real Estate DApp
-React • Solidity • Ethereum • IPFS
-
-### 🧠 Digital Twin in Healthcare
-Machine Learning • Healthcare Analytics • Predictive Modeling
-
----
-
-## 🏆 Achievements
-
-* 🥇 Intuit Innovation Challenge 2025 Winner
-* 📄 Research Publication – Gradiva Review Journal
-* 🎓 MERN Stack Certification – Apna College
-* 👩‍💻 Former Curation Lead – Microsoft Student Club
-
----
 # 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhruthi-Kashyap&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruthi-Kashyap&theme=tokyonight" /> </p>
 
 ## 📫 Connect With Me
@@ -69,7 +30,3 @@ Machine Learning • Healthcare Analytics • Predictive Modeling
 * 🧩 LeetCode: https://leetcode.com/u/Dhruthi_M_Kashyap/
 * 📧 Email: [dhruthimkashyap@gmail.com](mailto:dhruthimkashyap@gmail.com)
 
----
-
-### 🌱 Beyond the Code
-I enjoy exploring AI, healthcare innovation, and emerging technologies while continuously improving my development skills through projects, research, and problem-solving.
