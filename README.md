@@ -7,20 +7,6 @@
 ## Blockchain & Tools ![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity) ![Hardhat](https://img.shields.io/badge/Hardhat-black?style=for-the-badge&logo=ethereum) ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github) ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman) ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code) 
 ---
 
-## 💼 Experience
-
-### MERN Stack Trainee — Dyashin Technosoft
-
-* Developed full-stack MERN applications
-* Built REST APIs and integrated databases
-* Worked on authentication, debugging, testing, and deployment
-
-### Engineering Trainee — CCCIR
-
-* Contributed to Digital Twin healthcare research
-* Worked on healthcare datasets and ML concepts
-* Explored predictive analytics and AI-assisted diagnostics
-
 # 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhruthi-Kashyap&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruthi-Kashyap&theme=tokyonight" /> </p>
 
 ## 📫 Connect With Me
